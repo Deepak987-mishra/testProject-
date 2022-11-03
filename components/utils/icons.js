@@ -1,0 +1,20 @@
+const Icons = {
+    home_select: require('../assets/Icons/home_select.png'),
+    home_unselect: require('../assets/Icons/home_unselect.png'),
+    order_select: require('../assets/Icons/cart_select.png'),
+    order_unselect: require('../assets/Icons/cart_unselect.png'),
+    category_select: require('../assets/Icons/category_select.png'),
+    category_unselect: require('../assets/Icons/category_unselect.png'),
+    profile_select: require('../assets/Icons/user_select.png'),
+    profile_unselect: require('../assets/Icons/user_unselect.png'),
+    right_icon: require('../assets/Icons/right.png'),
+    search_icon: require('../assets/Icons/search.png'),
+    close: require('../assets/Icons/close.png'),
+    forward: require('../assets/Icons/forward.png'),
+    back_icon: require('../assets/Icons/back.png'),
+    backIcon_white: require('../assets/Icons/back_white.png'),
+    eyeActive:require('../assets/Icons/eye_active.png'),
+    eyeInactive:require('../assets/Icons/eye_inactive.png'),
+    dropDown:require('../assets/Icons/drop_down.png'),
+}
+export default Icons
